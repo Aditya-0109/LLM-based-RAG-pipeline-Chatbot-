@@ -8,4 +8,5 @@
 6) Output will be generated in the output box
 7) Enter more queries or click clear to upload anew document
 Example:
-![image](https://github.com/user-attachments/assets/5e0f80c8-9e65-4c5e-8249-7ac765e06c78)
+![image](https://github.com/user-attachments/assets/ea20cfff-a6bc-4a5b-a41b-bc1934e95196)
+
